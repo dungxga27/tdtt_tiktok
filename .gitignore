@@ -3,3 +3,5 @@ profiles/
 
 # Ignore tất cả file txt
 *.txt
+
+config.py
