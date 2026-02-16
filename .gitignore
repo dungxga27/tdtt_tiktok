@@ -1,0 +1,5 @@
+# Ignore thư mục profiles
+profiles/
+
+# Ignore tất cả file txt
+*.txt
