@@ -791,7 +791,7 @@ class TikTokResolver:
     def register(self):
 
         #mua email
-        shopMail = Shop1989ND('dungadeptry', 'Dungg2005@')
+        shopMail = Shop1989ND('', '')
         result = shopMail.buy_resource(product_id=5, amount=1)
         accounts = shopMail.extract_email_pass(result)
 
